@@ -4,20 +4,13 @@
 
 ## About Me
 
-I'm a passionate technologist with a strong background in software engineering and biotechnology. Currently, I'm working on applying AI models to whole-genome sequencing data at Stanford University's Department of Genetics. My diverse experience spans from founding an IT consultancy to developing low-latency streaming solutions for mobile devices.
+I'm a passionate technologist with a strong software engineering and biotechnology background. Currently, I'm working as a full-stack developer at UX Stream and applying AI models to whole-genome sequencing data in Stanford University's Snyder lab. My diverse experience spans from founding an IT consultancy to developing low-latency streaming solutions for mobile devices.
 
 ## 🔬 Current Research
 
 - Classifying diseases using AI models on whole-genome sequencing data
 - Building pipelines for high-throughput analysis with graph neural networks
 - Integrating proteomics with sequencing data through pQTL-analysis
-
-## 📚 Publications & Research Contributions
-
-While my first publications are in the pipeline, I've been actively contributing to cutting-edge research in genomics and AI:
-
-- **[Upcoming]** Publication on AI models for genomic data analysis (Details to be added soon)
-- **[Upcoming]** Paper on machine learning applications in whole-genome sequencing
 
 ## 🛠️ Notable Open-Source Projects
 
@@ -50,16 +43,6 @@ While my first publications are in the pipeline, I've been actively contributing
 - **Languages**: Rust, Python, TypeScript, JavaScript, Kotlin, Swift, Objective-C, R, MATLAB
 - **Frameworks**: Scikit-Learn, PyTorch, Tensorflow, React / React Native, Flatbuffers, Tokio
 - **Developer Tools**: Git, Docker, Slurm, Azure, AWS, Firebase
-
-## 📊 GitHub Stats
-
-![Martin's GitHub stats](https://github-readme-stats.vercel.app/api?username=martinappberg&show_icons=true&theme=radical)
-
-## 🏆 GitHub Contributions
-
-While many of my contributions are in private repositories due to the nature of my research work, here's a glimpse of my GitHub activity:
-
-![Martin's GitHub Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=martinappberg&theme=github)
 
 ## 📫 Connect with Me
 
