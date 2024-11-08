@@ -14,9 +14,9 @@ I'm a passionate technologist with a strong software engineering and biotechnolo
 
 ## 🛠️ Notable Open-Source Projects
 
-1. [ANNOVAR AI](https://github.com/martinappberg/annovar_ai)
+1. [(coming soon) ANNOVAR AI](https://github.com/martinappberg/annovar_ai)
    - AI models for Annotated VCF files through ANNOVAR
-   - Enhancing genomic variant interpretation using machine learning
+   - Improved, interpretable disease classification through graph neural networks of gene-gene interactions.
 
 2. [HEAL (Hierarchical Estimate from Agnostic Learning)](https://github.com/pirocv/HEAL)
    - Machine learning-based genome analysis and risk prediction framework
